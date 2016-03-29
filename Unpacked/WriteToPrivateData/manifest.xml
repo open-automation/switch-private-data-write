@@ -1,0 +1,12 @@
+<Manifest>
+    <ScripterInstanceName>PrivateData</ScripterInstanceName>
+    <ScriptPackageFormatVersion>1.0</ScriptPackageFormatVersion>
+    <ScripterPassword></ScripterPassword>
+    <ScriptDeclarationFile>WriteToPrivateData.xml</ScriptDeclarationFile>
+    <ScriptProgramFiles>
+        <ScriptProgramFile ScriptLanguage="JavaScript">WriteToPrivateData.js</ScriptProgramFile>
+    </ScriptProgramFiles>
+    <ScriptIconFile>ico_pd.png</ScriptIconFile>
+    <AppleBinary></AppleBinary>
+    <LocalizationItems/>
+</Manifest>
