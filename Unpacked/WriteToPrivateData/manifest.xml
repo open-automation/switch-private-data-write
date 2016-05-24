@@ -1,12 +1,1 @@
-<Manifest>
-    <ScripterInstanceName>PrivateData</ScripterInstanceName>
-    <ScriptPackageFormatVersion>1.0</ScriptPackageFormatVersion>
-    <ScripterPassword></ScripterPassword>
-    <ScriptDeclarationFile>WriteToPrivateData.xml</ScriptDeclarationFile>
-    <ScriptProgramFiles>
-        <ScriptProgramFile ScriptLanguage="JavaScript">WriteToPrivateData.js</ScriptProgramFile>
-    </ScriptProgramFiles>
-    <ScriptIconFile>ico_pd.png</ScriptIconFile>
-    <AppleBinary></AppleBinary>
-    <LocalizationItems/>
-</Manifest>
+kSFKHBM4zel2G/xTOig9iDa+iLYwGRXfKZVDkyvhDrzhlbbs+gsjB2+mxMyG3OrbGpdUB3bj+tB8Ke2cYWVx3XYqwx2GHe3b4FR22+pPH4jSPT8xsS1nB5iKbXLngU9whXKdcBIBRCMLUV7BTRxCYxIS3ISxRNRzkl5kFIpRelDQ5cIsieO8SA0DAeDGO9KYpnJrbWNGmTP+1Ex+DlLQz5/RlgJAIA0K17PtAM7klVv3MCwutBeFS7tCSpQMijZR2ZDQ5jg+FsyW0rFlxlFl1L0PhnaMELclgcccCj6PfstTnhdV4LkipmUaXSD80lgfcskNUvyWSx0DZyEazNkbwKD8NuH3OefOlKehEkAUzfWcDgka/f3FkFYrkNt0jLZ5PsXi0q7llnbx+FN966LSpxJTpE5NDDL8xFPSbRhfaV3Q+l6LCr/95I4AjQFAflFxfsGjXLTXLGICuq0sn97HEdh69t/yOFZDfOYaBNZ5hwMGiaUQEu7mFFzc9wukrZwDJL/FWKW5nAnnzreizRNM1zfkE1gQMfQCAPS08+bjc7lqn9FAf6xLEOE+XnIGhIPsRCK5M08GfauX39vxX4+EobWDo/5Uacv+Ngr1fkPfGojquRyTa9zk6akCmHzSn7fivRfuBTNbf031WxuRYTaRp44VF1AciznhP0m7XmG4/Ts0PfP1eXykjm6ri+CfxYMHH3Dn8Caifxee1SKxwRoWNOcAK7l+RE5udnwrDsTJ56+WrAhJfMBRhBTM7fkh/2P82bxmJUyvKkI53TDK3eTsSg==
