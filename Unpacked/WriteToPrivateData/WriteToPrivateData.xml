@@ -42,6 +42,16 @@ PrivateDataKey2</ObsoleteConnectionProperties>
         <Value4 Validation="None" DependencyCondition="Not-empty" Dependencyvalue="Yes" LocalizedTagName="Value 4" Subtype="inline" Default="" Dependency="Key4" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value4>
         <Key5 Validation="None" LocalizedTagName="  Key 5" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Key5>
         <Value5 Validation="None" DependencyCondition="Not-empty" Dependencyvalue="Yes" LocalizedTagName="Value 5" Subtype="inline" Default="" Dependency="Key5" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value5>
+        <Key6 Validation="None" LocalizedTagName="  Key 6" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Key6>
+        <Value6 Validation="None" DependencyCondition="Not-empty" Dependencyvalue="Yes" LocalizedTagName="Value 6" Subtype="inline" Default="" Dependency="Key6" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value6>
+        <Key7 Validation="None" LocalizedTagName="  Key 7" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Key7>
+        <Value7 Validation="None" DependencyCondition="Not-empty" Dependencyvalue="Yes" LocalizedTagName="Value 7" Subtype="inline" Default="" Dependency="Key7" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value7>
+        <Key8 Validation="None" LocalizedTagName="  Key 8" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Key8>
+        <Value8 Validation="None" DependencyCondition="Not-empty" Dependencyvalue="Yes" LocalizedTagName="Value 8" Subtype="inline" Default="" Dependency="Key8" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value8>
+        <Key9 Validation="None" LocalizedTagName="  Key 9" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Key9>
+        <Value9 Validation="None" DependencyCondition="Not-empty" Dependencyvalue="Yes" LocalizedTagName="Value 9" Subtype="inline" Default="" Dependency="Key9" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value9>
+        <Key10 Validation="None" LocalizedTagName="  Key 10" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Key10>
+        <Value10 Validation="None" DependencyCondition="Not-empty" Dependencyvalue="Yes" LocalizedTagName="Value 10" Subtype="inline" Default="" Dependency="Key10" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value10>
         <DebugWarnings Validation="Standard" LocalizedTagName="Debug Warnings" Subtype="inline" Default="No" Tooltip="" DetailedInfo="" Type="bool" Editor="inline">No</DebugWarnings>
     </ElementFields>
     <ConnectionFields/>
