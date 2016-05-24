@@ -32,17 +32,17 @@ PrivateDataKey2</ObsoleteProperties>
 PrivateDataKeyValue2
 PrivateDataKey1
 PrivateDataKey2</ObsoleteConnectionProperties>
-        <Key1 Validation="None" LocalizedTagName="Key 1" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar"></Key1>
-        <Value1 Validation="None" LocalizedTagName="Value 1" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar"></Value1>
-        <Key2 Validation="None" LocalizedTagName="Key 2" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar"></Key2>
-        <Value2 Validation="None" LocalizedTagName="Value 2" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar"></Value2>
-        <Key3 Validation="None" LocalizedTagName="Key 3" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar"></Key3>
-        <Value3 Validation="None" LocalizedTagName="Value 3" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar"></Value3>
-        <Key4 Validation="None" LocalizedTagName="Key 4" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar"></Key4>
-        <Value4 Validation="None" LocalizedTagName="Value 4" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar"></Value4>
-        <Key5 Validation="None" LocalizedTagName="Key 5" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar"></Key5>
-        <Value5 Validation="None" LocalizedTagName="Value 5" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar"></Value5>
-        <DebugLevel Validation="Standard" LocalizedTagName="Debug Level" Subtype="inline" Default="0" Tooltip="" DetailedInfo="" Type="enum:0;1" Editor="inline">0</DebugLevel>
+        <Key1 Validation="None" LocalizedTagName="  Key 1" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Key1>
+        <Value1 Validation="None" LocalizedTagName="Value 1" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value1>
+        <Key2 Validation="None" LocalizedTagName="  Key 2" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Key2>
+        <Value2 Validation="None" LocalizedTagName="Value 2" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value2>
+        <Key3 Validation="None" LocalizedTagName="  Key 3" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Key3>
+        <Value3 Validation="None" LocalizedTagName="Value 3" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value3>
+        <Key4 Validation="None" LocalizedTagName="  Key 4" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Key4>
+        <Value4 Validation="None" LocalizedTagName="Value 4" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value4>
+        <Key5 Validation="None" LocalizedTagName="  Key 5" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Key5>
+        <Value5 Validation="None" LocalizedTagName="Value 5" Subtype="inline" Default="" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar;scriptexp"></Value5>
+        <DebugWarnings Validation="Standard" LocalizedTagName="Debug Warnings" Subtype="inline" Default="No" Tooltip="" DetailedInfo="" Type="bool" Editor="inline">No</DebugWarnings>
     </ElementFields>
     <ConnectionFields/>
 </Object>
