@@ -1,6 +1,6 @@
-Private Data Write
-========================
+# Private Data Write
+Writes miscellaneous values to a job's private data using key => value pairs that can be set in the script configurator as input parameters. 
 
-Writes misc. values to a job's private data using key => value pairs that can be set in the script configurator as input parameters. 
+<img src="http://i.imgur.com/kLISVKS.png" width="450">
 
-Currently this script supports writing 10 private data values. If more needs to be written, you hou have to run your job through two scripts.
+Currently this script supports writing 15 private data values. If more needs to be written, you hou have to run your job through additional scripting instances.
