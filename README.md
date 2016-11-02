@@ -1,6 +1,8 @@
 # private-data-write
 Writes miscellaneous values to a job's private data using key => value pairs that can be set in the script configurator as input parameters. 
 
+<img src="https://i.imgur.com/GHI5r7u.png" width="350">
+
 ## Overview
 
 <img src="http://i.imgur.com/XHSTuig.png" width="371">
